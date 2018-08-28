@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorCc">#cccccc</color>
+    <color name="meituanGreen">#01c1ae</color>
+    <color name="gray666">#666666</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="dividerColorFA">#fafafa</color>
+    <color name="dividerColor999">#999</color>
+    <color name="dividerColorF0">#f0f0f0</color>
+    <color name="red">#f00</color>
+
+    <color name="default_line_color">#e6e6e6</color>
+    <color name="list_item_focus">#0a000000</color>
+    <color name="white_alpha_percent_45">#73ffffff</color>
+    <color name="title_color">#259b24</color>
+    <color name="search_bg">#f2f2f2</color>
+</resources>
